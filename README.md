@@ -8,7 +8,7 @@
 ### 1. Architect & Build an End-to-End AWS Web Application  
 - **Tech:** AWS Amplify, Lambda, API Gateway, DynamoDB, IAM  
 - **Description:** Developed an application from scratch with serverless backend and dynamic front-end hosting.  
-- [🔗 Project Directory](https://github.com/NoussaybaJrad/aws-webapp-scratch)
+- [🔗 Project Directory]https://github.com/NoussaybaJrad/Architect-Build-an-End-to-End-AWS-Web-Application-/tree/main
 
 ### 2. Build a Full End-to-End Web App  
 - **Tech:** GitHub, AWS IAM, Amplify, Cognito, Lambda, API Gateway, DynamoDB  
