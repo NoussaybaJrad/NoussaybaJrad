@@ -18,7 +18,7 @@
 ### 3. End-to-End Data Pipeline  
 - **Tech:** AWS S3, Athena, Glue ETL, Triggers  
 - **Description:** Created a complete data pipeline with ETL jobs, queries, and event-based automation.  
-- [🔗 Project Directory](https://github.com/NoussaybaJrad/aws-data-pipeline)
+- [🔗 Project Directory](https://github.com/NoussaybaJrad/End-to-End-Data-Pipeline/tree/main)
 
 ### 4. Serverless Web Application Deployment  
 - **Tech:** AWS S3, API Gateway, Lambda, DynamoDB, CloudFront  
