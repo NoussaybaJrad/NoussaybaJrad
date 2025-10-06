@@ -13,7 +13,7 @@
 ### 2. Build a Full End-to-End Web App  
 - **Tech:** GitHub, AWS IAM, Amplify, Cognito, Lambda, API Gateway, DynamoDB  
 - **Description:** Architected and deployed a full-stack web application with authentication, API, and database integration.  
-- [🔗 Project Directory](https://github.com/NoussaybaJrad/full-end-to-end-webapp)
+- [🔗 Project Directory]([https://github.com/NoussaybaJrad/full-end-to-end-webapp](https://github.com/NoussaybaJrad/wildrydes-site/tree/main))
 
 ### 3. End-to-End Data Pipeline  
 - **Tech:** AWS S3, Athena, Glue ETL, Triggers  
