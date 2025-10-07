@@ -26,9 +26,9 @@
 - [🔗 Project Directory](https://github.com/NoussaybaJrad/AWS-SERVERLESS-DEPLOYMENT)
 
 ### 5. Game Deployment with Continuous Delivery  
-- **Tech:** GitHub, AWS S3  
+- **Tech:** GitHub, IAM, S3, codepipeline  
 - **Description:** Implemented a CI/CD pipeline to automatically deploy a game from GitHub to an S3 bucket.  
-- [🔗 Project Directory](https://github.com/NoussaybaJrad/game-cicd-s3)
+- [🔗 Project Directory](https://github.com/NoussaybaJrad/Game-Deployment-with-Continuous-Delivery)
 
 ### 6. Audio to Text with Amazon Polly  
 - **Tech:** AWS Polly  
