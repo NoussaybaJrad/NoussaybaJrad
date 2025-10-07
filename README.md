@@ -21,7 +21,7 @@
 - [🔗 Project Directory](https://github.com/NoussaybaJrad/End-to-End-Data-Pipeline/tree/main)
 
 ### 4. Serverless Web Application Deployment  
-- **Tech:** AWS S3, API Gateway, Lambda, DynamoDB, CloudFront  
+- **Tech:** AWS S3, API Gateway, Lambda, IAM, DynamoDB, CloudFront  
 - **Description:** Built and deployed a serverless application with global distribution.  
 - [🔗 Project Directory](https://github.com/NoussaybaJrad/AWS-SERVERLESS-DEPLOYMENT)
 
