@@ -38,7 +38,7 @@
 ### 7. EC2 CPU Monitoring  
 - **Tech:** AWS CloudWatch  
 - **Description:** Configured CloudWatch alarms to monitor and track EC2 CPU usage.  
-- [🔗 Project Directory](https://github.com/NoussaybaJrad/ec2-cpu-monitoring)
+- [🔗 Project Directory](https://github.com/NoussaybaJrad/EC2_CPU_Monitoring_CloudWatch/tree/main)
 
 ### 8. Cost Tracking & Alert System  
 - **Tech:** AWS Budgets, CloudWatch  
