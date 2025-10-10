@@ -33,7 +33,7 @@
 ### 6. Audio to Text with Amazon Polly  
 - **Tech:** AWS Polly  
 - **Description:** Designed a cloud workflow to convert audio into text using AWS services.  
-- [🔗 Project Directory](https://github.com/NoussaybaJrad/aws-audio-to-text)
+- [🔗 Project Directory](https://github.com/NoussaybaJrad/AWS_TextToSpeech_Automation/blob/main/README.md)
 
 ### 7. EC2 CPU Monitoring  
 - **Tech:** AWS CloudWatch  
