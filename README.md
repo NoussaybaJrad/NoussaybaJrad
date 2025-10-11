@@ -43,7 +43,7 @@
 ### 8. Cost Tracking & Alert System  
 - **Tech:** AWS Budgets, CloudWatch  
 - **Description:** Built a system to track cloud usage costs and send alerts to stay within budget.  
-- [🔗 Project Directory](https://github.com/NoussaybaJrad/cost-tracking-alerts)
+- [🔗 Project Directory](https://github.com/NoussaybaJrad/AWS-Cost-Monitoring-and-Alerts)
 
 ### 9. Manual Database Recovery in Case of Failure  
 - **Tech:** AWS RDS  
