@@ -48,7 +48,7 @@
 ### 9. Manual Database Recovery in Case of Failure  
 - **Tech:** AWS RDS  
 - **Description:** Simulated failure scenarios and practiced manual database recovery processes.  
-- [🔗 Project Directory](https://github.com/NoussaybaJrad/db-recovery)
+- [🔗 Project Directory](https://github.com/NoussaybaJrad/AWS_RDS_Disaster_Recovery)
 
 ---
 
