@@ -1,6 +1,7 @@
 # Hi, I'm Noussayba 👋  
 **Cloud Engineer in training (AWS-focused)**
-I build cloud-based and serverless applications
+
+I build cloud-based serverless applications
 
 ---
 
