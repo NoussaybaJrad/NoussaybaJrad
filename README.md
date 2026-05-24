@@ -1,9 +1,9 @@
 # Hi, I'm Noussayba 👋  
-**Aspiring Cloud AI Engineering Student**
+**Aspiring Cloud Engineering**
 
 ---
 
-## ☁️ Cloud/Cloud AI Projects  
+## ☁️ Cloud Projects
 
 ### 1. Architect & Build an End-to-End AWS Web Application  
 - **Tech:** AWS Amplify, Lambda, API Gateway, DynamoDB, IAM  
