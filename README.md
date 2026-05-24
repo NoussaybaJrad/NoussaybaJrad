@@ -3,7 +3,7 @@
 
 ---
 
-## ☁️ Cloud Projects
+## ☁️ Featured Cloud Projects
 
 ### 1. Architect & Build an End-to-End AWS Web Application  
 - **Tech:** AWS Amplify, Lambda, API Gateway, DynamoDB, IAM  
