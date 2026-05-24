@@ -1,5 +1,5 @@
 # Hi, I'm Noussayba 👋  
-**Aspiring Cloud Engineering**
+**Cloud Engineer in training (AWS-focused)**
 
 ---
 
