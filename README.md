@@ -18,7 +18,7 @@ Telecom and networks background (VoIP, IMS, FTTH, CCNA) applied to cloud infrast
 ## 🎓 Certifications and training
 - AWS re/Start – Cloud / DevOps (AWS Skill Builder, graduate, Aug. 2025)
 - CCNA 1–2–3, Cisco Networking Academy (2024)
-- AWS Certified Cloud Practitioner: exam scheduled [month/year]
+- AWS Certified Cloud Practitioner scheduled 
 
 ---
 
