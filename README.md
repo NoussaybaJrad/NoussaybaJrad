@@ -53,6 +53,7 @@ Telecom and networks background (VoIP, IMS, FTTH, CCNA) applied to cloud infrast
 - **Tech:** S3, API Gateway, Lambda, DynamoDB, CloudFront, IAM
 - **What it does:** Guided lab: serverless application distributed globally through CloudFront.
 
+
 - [🔗 View project](https://github.com/NoussaybaJrad/AWS-SERVERLESS-DEPLOYMENT)
 
 ### 7. Full-Stack Serverless Web App with Authentication
